@@ -1,0 +1,8 @@
+back:
+  enable: true
+  max-y: 125
+  min-y: 5
+  range: 5
+message:
+  prefix: "&7[&eNoNetherRoof&7]&r "
+  succeesful: "§c已禁止下界基岩顶层！"

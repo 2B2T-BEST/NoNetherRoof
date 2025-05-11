@@ -1,0 +1,10 @@
+name: NoNetherRoof
+version: '1.6'
+main: com.hitech0926.nonetherroof.NoNetherRoof
+api-version: '1.21'
+authors: [ HiTech0926 ]
+description: 禁止下界顶层
+permissions:
+  nonetherroof.bypass:
+    description: 绕过下界顶层限制
+    default: op
